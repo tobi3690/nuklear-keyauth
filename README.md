@@ -3,6 +3,14 @@
 
 Cleaned up code, Optimized project files, added authentication service
 -----------------
+Since i cannot upload here to extent of files, download will be posted on this file hosting website if this file ever goes down contact me in keyauth discord
+
+https://discord.gg/keyauth my username is either tobi or tobiwobi.
+
+
+
+
+
 Credits Nuklear: https://github.com/vurtun/nuklear
 
 
