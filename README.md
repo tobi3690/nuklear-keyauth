@@ -1,4 +1,4 @@
-# Nuklear KeyAuth ModMap / Injector All In One
+# Nuklear KeyAuth ModMap / Injector / Spoofer All In One
 
 
 Cleaned up code, Optimized project files, added authentication service
